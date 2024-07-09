@@ -5,7 +5,7 @@ accounts:
  message: "Welcome to Bank acoounts related local APIs"
  contactDetails:
   name: "Nguyen Di Dan - Developer"
-  email: "didan@dev.com"
+  email: "{cipher}e00e87c9d9ca618968b0838aee8aa5d7fecc299564ceae84fce2175007f9c100"
  onCallSupport:
   - (843) 456-6789
   - (846) 989-2223
