@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Bank acoounts related QA APIs"
+  message: "Welcome to Bank accounts related QA APIs"
   contactDetails:
     name: "Nguyen Thi Ha - QA Owner"
     email: "thiha@qa.com"

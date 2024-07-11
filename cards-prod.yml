@@ -2,7 +2,7 @@ build:
  version: "3.0"
 
 cards:
- message: "Welcome to Bank cards related poduction APIs"
+ message: "Welcome to Bank cards related prod APIs"
  contactDetails:
   name: "Nguyen Van Thang - Product Owner"
   email: "vanthang@prod.com"
